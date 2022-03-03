@@ -1,0 +1,22 @@
+.fondo_morado{
+    background-color: #dc3545;
+}
+
+.tipografia1{
+    color: white;
+}
+
+.tipografia2{
+    color:#dc3545
+}
+.h1{
+    font-family: 'Dancing Script', cursive;
+}
+
+.menu li a{
+    color: beige;
+}
+
+.menu li a:hover{
+    color: blueviolet;
+}
